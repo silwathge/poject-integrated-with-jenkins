@@ -8,7 +8,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 public class JenkinsMavenApplication extends SpringBootServletInitializer  {
 
 	public static void main(String[] args) {
-		System.out.println("Hi there edited, jenkins should pick this up now");
+		System.out.println("Hi there edited, jenkins should pick this up now eeee");
 		SpringApplication.run(JenkinsMavenApplication.class, args);
 	}
 
